@@ -13,9 +13,19 @@ Once you've oriented to $SAMPLE_PATH (i.e. C:\Learning\Vue\course-vue-getting-st
 
 ```
 npm install
-cd src
-lite-server
 ```
+this will restore packages. To start teh server, run the following (depending on which operating system you run)
+
+for Windows:
+```
+npm run windows
+```
+or for Linux:
+
+```
+npm run linux
+```
+
 
 
 ## Project Notes
